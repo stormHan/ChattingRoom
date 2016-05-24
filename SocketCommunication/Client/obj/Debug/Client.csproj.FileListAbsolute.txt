@@ -1,0 +1,9 @@
+E:\C#\SocketCommunication\Client\bin\Debug\Client.exe.config
+E:\C#\SocketCommunication\Client\bin\Debug\Client.exe
+E:\C#\SocketCommunication\Client\bin\Debug\Client.pdb
+E:\C#\SocketCommunication\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\C#\SocketCommunication\Client\obj\Debug\Client.Client.resources
+E:\C#\SocketCommunication\Client\obj\Debug\Client.Properties.Resources.resources
+E:\C#\SocketCommunication\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\C#\SocketCommunication\Client\obj\Debug\Client.exe
+E:\C#\SocketCommunication\Client\obj\Debug\Client.pdb
